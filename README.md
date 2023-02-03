@@ -40,3 +40,13 @@ Lot 3 T-Test
 
 The population T-Test resulted in a P-Value of .069, which is above the acceptable significant level of .05. This t-test has failed to reject the null hypothesis. The total manufacturing lots are statistically similar to the population mean that it was compared to. With similar results, the T-Tests for  individual lots 2 and 3 resulted with failing to reject the null hypthossis, as the P-Value of lots 2 and 3 were above the significant level of .05. It can be concluded that these lots are statistically similar to the population mean. On the other hand, the P-Value of Lot 1 is less than .05, indicating that the PSI for Lot 1 is statistically different from the population mean of 1,500 pounds per square inch.
 
+## Study Design: MechaCar vs Competition
+
+Many consumers compare and contrast different aspects of vehicles across many companies. To quantify how the MechaCar performs against the competition, the following  metrics should be tested:
+
+- overall cost
+- fuel efficiency on highways
+- safety rating
+- maintenance cost
+
+To test these metrics, a one-way ANOVA would be used to compare MechCar's vehicles to their competitor's vehicles.
