@@ -38,5 +38,5 @@ Lot 3 T-Test
 
 ![Lot 3 T-Test](/images/MechaCar_Part3_lot3.png/)
 
-
+The population T-Test resulted in a P-Value of .069, which is above the acceptable significant level of .05. This t-test has failed to reject the null hypothesis. The total manufacturing lots are statistically similar to the population mean that it was compared to. With similar results, the T-Tests for each individual lot resulted with failing to reject the null hypthossis, as the P-Value of the individual lots were above the significant level of .05. It can be concluded that the individual lots are statistically similar to the population mean.
 
